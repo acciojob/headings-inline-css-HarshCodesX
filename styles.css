@@ -1,24 +1,30 @@
 /*  your css code here. If applicable */
 h1{
 	color: #2a7ae2;
+	font-style: arial;
 }
 
 h2{
 	color: #f44336;
+	font-style: arial;
 }
 
 h3{
 	color: #4caf50;
+	font-style: arial;
 }
 
 h4{
 	color: #ff9800;
+	font-style: arial;
 }
 
 h5{
-	color: ;
+	color:  #607d8b;
+	font-style: arial;
 }
 
 h6{
 	color: #ffeb3b;
+	font-style: arial;
 }
